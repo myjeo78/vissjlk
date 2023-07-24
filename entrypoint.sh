@@ -2,7 +2,7 @@
 
 UUID=${UUID:-'b13deeef-dcc2-47d8-9972-7aa69f4b9f61'}
 VMESS_WSPATH=${VMESS_WSPATH:-'/b13deeef-dcc2-47d8-9972-7aa69f4b9f61-vmess'}
-VLESS_WSPATH=${VLESS_WSPATH:-'/b13deeef-dcc2-47d8-9972-7aa69f4b9f61-vless'}
+VLESS_WSPATH=${VLESS_WSPATH:-'/b13deeef-dcc2-47d8-9972-7aa69f4b9f61-vlessl'}
 TROJAN_WSPATH=${TROJAN_WSPATH:-'/b13deeef-dcc2-47d8-9972-7aa69f4b9f61-trojan'}
 SS_WSPATH=${SS_WSPATH:-'/b13deeef-dcc2-47d8-9972-7aa69f4b9f61-shadowsocks'}
 URL=${HOSTNAME}-8080.csb.app
